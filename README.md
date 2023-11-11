@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there, welcome to my GitHub! 👋
+
+I'm Rhuan and I am currently studying the 4th year of the IT course at IFRN - Pau dos Ferros.
 
 <!--
 **rhuaann/rhuaann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
